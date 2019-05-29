@@ -8,3 +8,11 @@ Currently working with:
 
 Hardware: Arduino Mega, MPU6050, HMC5883L and BMP180.
 Software: Processing 3.3 and ControlP5 release 2.2.5
+
+How to build from source:
+https://www.flitetest.com/articles/compiling-multiwiiconf-on-macos-x
+
+Processing IDE for exporting a binary:
+https://processing.org/download/?processing
+
+Binaries for OSX: https://github.com/piotrkundu/multiwii-gui-processing/releases
